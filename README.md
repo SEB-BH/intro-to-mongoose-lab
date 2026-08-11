@@ -11,5 +11,4 @@ In this lab, you will create a terminal-based Customer Relationship Management (
 
 - [Setup](./setup/README.md)
 - [Exercise](./exercise/README.md)
-
 - [Level Up](./level-up/README.md)
