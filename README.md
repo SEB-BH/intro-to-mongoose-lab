@@ -5,7 +5,7 @@
 
 ## About
 
-In this lab, you will create a terminal-based Customer Relationship Management (CRM) application using Mongoose. This application will manage customer data with full Create, Read, Update, and Delete (CRUD) functionality.
+In this lab, you will practice the mongoose methods we did in class. We will practice installing mongoose, creating the model, and the mognoose methods we covered in class
 
 ## Content
 
