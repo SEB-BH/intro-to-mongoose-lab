@@ -10,6 +10,8 @@
 
 
 Create a model folder and create a Recipe.js file inside. create the model with the following fields:
+
+
 | Field        | Type      |  Validation |
 |--------------|-----------|-------------|
 | name         | String    | required, minLength: 2, maxLength: 100 |
