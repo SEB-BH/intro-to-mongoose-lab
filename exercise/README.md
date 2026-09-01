@@ -8,6 +8,7 @@
 
 1. Create a Schema and model for the Recipe. Use the following for your Schema creation:
 
+
 Create a model folder and create a Recipe.js file inside. create the model with the following fields:
 | Field        | Type      |  Validation |
 |--------------|-----------|-------------|
@@ -15,6 +16,7 @@ Create a model folder and create a Recipe.js file inside. create the model with 
 | instructions | [String]  | |
 | prepTime     | Number    | min: 5, max 500, required |
 | difficulty   | String    | enum: ['Easy', 'Medium', 'Hard'] |
+
 
 2. Now export the model using `module.exports = Recipe`
 
