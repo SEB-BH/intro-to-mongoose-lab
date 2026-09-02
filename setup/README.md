@@ -6,7 +6,7 @@
 
 ## 1. Project Setup
 
-1. Create a new Node.js project:
+1. Initialize the project as a node project by running the following command:
 
    ```bash
    npm init -y
